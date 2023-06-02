@@ -1,0 +1,32 @@
+li {
+    margin: 10%;
+    height: 1000px;
+    top: 0;
+    width: 0;
+    padding-inline-start: 0;
+    justify-content: space-evenly;
+    top: 0;
+    display: inline;
+}
+.skills img {
+    width: 100%;
+  max-width: 30px;
+  height: 30px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+h1{
+    border-bottom: 4px solid #dfdfe2;
+  margin-top: 0px;
+  padding-top: 60px;
+}nav > ul > li:hover {
+    background-color: #000000;
+    color: #ffffff;
+    cursor: pointer;
+  }
+  nav > ul > li {
+    background-color: rgb(252, 249, 249) ;
+ }
+ header{
+    background: #000000;
+ }
