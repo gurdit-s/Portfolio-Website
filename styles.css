@@ -1,13 +1,13 @@
 body{
-  background-color: #292929;
-  color: #dfdfdf;
+  background-color: #181a29;
+  color: #69696b;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .center{
   text-align: center;
 }
 header{
-  background-color: rgb(31, 31, 31);
+  background-color: rgb(17, 14, 32);
   /* margin-left: 20%; */
   height: 25px;
   /* padding-top: 0.01em; */
@@ -33,6 +33,7 @@ li {
     border-bottom: 4px solid #444444;
   margin-top: 0px;
   padding-top: 60px;
+  font-size: 35px;
 }nav > ul > li:hover {
     color: #b6ba8b;
     cursor: pointer;
@@ -59,7 +60,7 @@ margin-left: 45%;
 }
 footer{
   width: 100%;
-  background-color: rgb(31, 31, 31);
+  background-color: rgb(17, 14, 32);
   color: rgb(227, 227, 227);
   display: flex;
   justify-content: center;
@@ -98,3 +99,17 @@ width: 75%;
 .bgf:hover{
   color: rgb(144, 113, 113);
 }
+#large{
+  font-size: 50px;
+}
+.front{
+  color: rgb(184, 86, 86);
+}
+.elevate{
+  color: rgba(65, 65, 99, 0.98);
+}
+/* .card{
+width: 60px;
+height: 60px;
+background-color: aliceblue;
+} */
